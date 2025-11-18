@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&width=435&lines=Hi+There!+👋;I+am+a+Developer;Always+learning+new+things..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&width=435&lines=Hi+There!+👋;I+am+Nguyễn+Phúc;A+Passionate+Developer;Always+learning+new+things..." alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -10,11 +10,15 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[Tên dự án của bạn]**
-- 🌱 I’m currently learning **AI, Algorithms & Full-stack Development**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- ⚡ Fun fact: **I love coding and coffee! ☕**
+Hi, I'm **Trần Nguyên Phúc - Willam **! 👋  
+I am a developer passionate about solving complex problems with **Algorithms** and **Artificial Intelligence**.
 
+- 🎓 I’m currently studying at **HUIT** (Ho Chi Minh City University of Industry and Trade).
+- 🔭 I’m currently working on **Full-stack projects** using **.NET** & **React**.
+- 🌱 I’m deeply interested in **AI/ML** and optimizing backend performance.
+- ⚡ **Fun fact:** I love coding, reading books, and I can't survive without coffee! ☕
+
+---
 ---
 
 ### 🛠️ Languages and Tools
@@ -37,14 +41,14 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=NgPhucs2375&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgPhucs2375&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph"  />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NgPhucs2375&theme=tokyonight&hide_border=true&background=0D1117" alt="streak graph" />
 </div>
 
 ---
@@ -52,7 +56,13 @@
 ### 📫 Connect with me
 
 <p align="left">
-<a href="LINK_FACEBOOK_CUA_BAN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
-<a href="LINK_LINKEDIN_CUA_BAN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="mailto:EMAIL_CUA_BAN@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/phuc.tran.316506/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/phúc-trần-nguyên-283a60365" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="linkedin" height="30" width="40" />
+  </a>
+  <a href="mailto:tranphuc2375@gmail.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" />
+  </a>
 </p>
