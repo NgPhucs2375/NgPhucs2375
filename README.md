@@ -17,7 +17,7 @@
 </blockquote>
 <br/>
 <p>
-Hi, I'm <b>Trần Nguyên Phúc (William)</b>.<br/>
+Hi, I'm <b>Trần Nguyên Phúc (William Andres)</b>.<br/>
 A passionate developer from <b>HUIT</b>, dedicated to mastering the art of <b>Software Architecture</b> and <b>Artificial Intelligence</b>.
 </p>
 <p>
