@@ -33,6 +33,9 @@
         <a href="mailto:tranphuc2375@gmail.com">
           <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
         </a>
+        <a href="https://www.facebook.com/phuc.tran.316506/" target="_blank">
+          <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+        </a>
       </p>
     </td>
     <td width="45%" valign="top" align="center">
@@ -78,8 +81,12 @@
 
 <h2 align="center">📊 Analytics</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgPhucs2375&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" width="45%" alt="languages graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NgPhucs2375&theme=tokyonight&hide_border=true&background=0D1117&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="streak graph" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgPhucs2375&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" height="165" alt="languages graph" />
+  </a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NgPhucs2375&theme=tokyonight&hide_border=true&background=0D1117&date_format=M%20j%5B%2C%20Y%5D" height="165" alt="streak graph" />
+  </a>
 </div>
 
 <br/>
